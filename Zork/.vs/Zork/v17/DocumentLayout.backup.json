@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\movementcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\movementcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\commandattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\commandattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\hello.csx||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\hello.csx||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\zork.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:zork.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\zork.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:zork.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\directions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\directions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\commandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\commandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|c:\\users\\gdnic\\documents\\github\\dig4778-lab-6\\zork\\scripts\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC72FC55-7476-4615-B3C5-D2B45380CB0A}|Zork.csproj|solutionrelative:scripts\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Zork.json",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Zork.json",
+              "RelativeDocumentMoniker": "Zork.json",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Zork.json",
+              "RelativeToolTip": "Zork.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T21:06:32.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Room.cs",
+              "RelativeDocumentMoniker": "Scripts\\Room.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Room.cs",
+              "RelativeToolTip": "Scripts\\Room.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:50:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hello.csx",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Hello.csx",
+              "RelativeDocumentMoniker": "Scripts\\Hello.csx",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Hello.csx",
+              "RelativeToolTip": "Scripts\\Hello.csx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-06T23:56:52.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\LookCommand.cs",
+              "RelativeDocumentMoniker": "Scripts\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\LookCommand.cs",
+              "RelativeToolTip": "Scripts\\LookCommand.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:48:33.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommandAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandAttribute.cs",
+              "RelativeDocumentMoniker": "Scripts\\CommandAttribute.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandAttribute.cs",
+              "RelativeToolTip": "Scripts\\CommandAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:18:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovementCommands.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\MovementCommands.cs",
+              "RelativeDocumentMoniker": "Scripts\\MovementCommands.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\MovementCommands.cs",
+              "RelativeToolTip": "Scripts\\MovementCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:22:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandManager.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\CommandManager.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandManager.cs",
+              "RelativeToolTip": "Scripts\\CommandManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:08:48.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Directions.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Directions.cs",
+              "RelativeDocumentMoniker": "Scripts\\Directions.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Directions.cs",
+              "RelativeToolTip": "Scripts\\Directions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:40:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:37:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\World.cs",
+              "RelativeDocumentMoniker": "Scripts\\World.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\World.cs",
+              "RelativeToolTip": "Scripts\\World.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:07:48.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Game.cs",
+              "RelativeDocumentMoniker": "Scripts\\Game.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Game.cs*",
+              "RelativeToolTip": "Scripts\\Game.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:06:22.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zork.json",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Zork.json",
+              "RelativeDocumentMoniker": "Zork.json",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Zork.json",
+              "RelativeToolTip": "Zork.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T14:55:09.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Program.cs",
+              "RelativeDocumentMoniker": "Scripts\\Program.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Program.cs",
+              "RelativeToolTip": "Scripts\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:48:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommandContext.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandContext.cs",
+              "RelativeDocumentMoniker": "Scripts\\CommandContext.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\CommandContext.cs",
+              "RelativeToolTip": "Scripts\\CommandContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T21:20:37.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Command.cs",
+              "RelativeDocumentMoniker": "Scripts\\Command.cs",
+              "ToolTip": "C:\\Users\\gdnic\\Documents\\GitHub\\DIG4778-Lab-6\\Zork\\Scripts\\Command.cs",
+              "RelativeToolTip": "Scripts\\Command.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:54:59.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
